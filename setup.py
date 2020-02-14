@@ -37,6 +37,6 @@ setup(
     'Topic :: System :: Logging',
     'Intended Audience :: Developers',
   ],
-  python_requires=">=2.7,!=3.0,!=3.1,!=3.2,!=3.3,<3.9",
+  python_requires=">=2.7, !=3.0, !=3.1, !=3.2, !=3.3, <4",
   test_suite='tests'
 )
